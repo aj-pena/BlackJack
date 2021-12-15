@@ -8,8 +8,7 @@
   - [Credits](#credits)
   - [GitHub](#github)
   - [Features](#features)
-  - [Tests](#tests)
-
+  
 ## Description
 
 This application allows the user to play a simple BlackJack game. The application will display the initial draw cards and ask the user if a new card is desired depending on the sum of the values of the cards. Currently, a static user named 'Andres' with $500 chips is hard-coded. Functionality for adding a new user and recording high-scores with dynamic chips could be added.
